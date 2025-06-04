@@ -1,7 +1,7 @@
 # version-control-simulation-ashley
-# H1 SBA 1: 
+# SBA 1: 
 
-# H1 The steps to create and manage branches.
+# The steps to create and manage branches.
 
   1. Set up the Repository.
   2. Created feature/header branch.
@@ -14,6 +14,6 @@
   9. Push Changes to GitHub.
   10. Created Pull Request.
 
-# H1 Handling Merge Conflict
+# Handling Merge Conflict
 
   
